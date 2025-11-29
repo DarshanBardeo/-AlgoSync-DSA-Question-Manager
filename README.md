@@ -1,4 +1,4 @@
-# AlgoSync Backend
+# AlgoSync Backend (Created with passion by Darshan And Atharva)
 
 A Node.js backend API for the AlgoSync DSA Question Manager application.
 
